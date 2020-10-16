@@ -9,3 +9,4 @@ The discord moderation bot for @everyone, open-source
 
 ## Setting up the dashboard
 Coming Soon
+[![Run on Repl.it](https://repl.it/badge/github/ttgprotect/TTGProtect)](https://repl.it/github/ttgprotect/TTGProtect)
